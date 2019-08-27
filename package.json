@@ -1,0 +1,22 @@
+{
+  "name": "cloud-run-button-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js sample application deployed by cloud run button",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oke-py/cloud-run-button-nodejs.git"
+  },
+  "author": "Naoki Oketani <okepy.naoki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oke-py/cloud-run-button-nodejs/issues"
+  },
+  "homepage": "https://github.com/oke-py/cloud-run-button-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
